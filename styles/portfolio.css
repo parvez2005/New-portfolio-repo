@@ -1,0 +1,44 @@
+.title{
+background-image: url(../images/Banner\ Image.png);
+background-repeat: no-repeat;
+
+text-align: center;
+width: 1320px;
+height: 600px;
+/* margin: 50px 140px 0px 140px; */
+
+   }
+   .new-year{
+    padding: 210px 350px;
+    color: white;
+   
+   }
+   .first{
+    font-size: 32px;
+    margin: 0px;
+
+   }
+   .second{
+    margin: 0px;
+    font-size:72px;
+    font-weight:lighter;
+   }
+   .holiday{
+    text-align: center;
+   }
+   .color{
+    
+    font-weight: bold;
+    font-size: 88px;
+   }
+   .color1{
+    font-weight: 500;
+    font-size: 24px;
+   }
+   .color2{
+    font-size: 48;
+    font-weight: bold;
+   }
+   .red{
+    color: #FF0000;
+   }
